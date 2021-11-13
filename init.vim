@@ -31,3 +31,5 @@ nnoremap <C-x> :x<CR>
 
 let g:NERDTreeDirArrowExpandable="+"
 let g:NERDTreeDirArrowCollapsible="~"
+
+colorscheme ayu
